@@ -1,0 +1,11 @@
+C:\Users\royma\source\repos\Maths\Maths\bin\Debug\netcoreapp3.0\Maths.exe
+C:\Users\royma\source\repos\Maths\Maths\bin\Debug\netcoreapp3.0\Maths.deps.json
+C:\Users\royma\source\repos\Maths\Maths\bin\Debug\netcoreapp3.0\Maths.runtimeconfig.json
+C:\Users\royma\source\repos\Maths\Maths\bin\Debug\netcoreapp3.0\Maths.runtimeconfig.dev.json
+C:\Users\royma\source\repos\Maths\Maths\bin\Debug\netcoreapp3.0\Maths.dll
+C:\Users\royma\source\repos\Maths\Maths\bin\Debug\netcoreapp3.0\Maths.pdb
+C:\Users\royma\source\repos\Maths\Maths\obj\Debug\netcoreapp3.0\Maths.csprojAssemblyReference.cache
+C:\Users\royma\source\repos\Maths\Maths\obj\Debug\netcoreapp3.0\Maths.AssemblyInfoInputs.cache
+C:\Users\royma\source\repos\Maths\Maths\obj\Debug\netcoreapp3.0\Maths.AssemblyInfo.cs
+C:\Users\royma\source\repos\Maths\Maths\obj\Debug\netcoreapp3.0\Maths.dll
+C:\Users\royma\source\repos\Maths\Maths\obj\Debug\netcoreapp3.0\Maths.pdb
